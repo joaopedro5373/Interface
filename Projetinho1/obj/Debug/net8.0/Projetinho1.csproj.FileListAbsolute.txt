@@ -1,0 +1,14 @@
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\bin\Debug\net8.0\Projetinho1.exe
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\bin\Debug\net8.0\Projetinho1.deps.json
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\bin\Debug\net8.0\Projetinho1.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\bin\Debug\net8.0\Projetinho1.dll
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\bin\Debug\net8.0\Projetinho1.pdb
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\obj\Debug\net8.0\Projetinho1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\obj\Debug\net8.0\Projetinho1.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\obj\Debug\net8.0\Projetinho1.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\obj\Debug\net8.0\Projetinho1.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\obj\Debug\net8.0\Projetinho1.dll
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\obj\Debug\net8.0\refint\Projetinho1.dll
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\obj\Debug\net8.0\Projetinho1.pdb
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\obj\Debug\net8.0\Projetinho1.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\deninguem\Projetinho1\Projetinho1\obj\Debug\net8.0\ref\Projetinho1.dll
